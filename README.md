@@ -9,7 +9,4 @@ Facebook Hack
 
 
 
->git clone https://github.com/Knownasjohnn/FacebookHack/blob/main/README.md
-
-
-
+>git clone https://github.com/Knownasjohnn/FacebookHack
