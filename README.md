@@ -1,7 +1,15 @@
 Facebook Hack
 >apt update
+
+
+
 >apt upgrade
->git clone 
+
+
+
+
+
+>git clone https://github.com/Knownasjohnn/FacebookHack/blob/main/README.md
 
 
 
