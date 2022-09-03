@@ -13,4 +13,8 @@ Facebook Hack
 
 
 
->python3 Facebook.py
+>chmod +x *
+
+
+
+
