@@ -1,5 +1,4 @@
-python3 FacebookHack.py
-
+Facebook Hack
 
 
 
