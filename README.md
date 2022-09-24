@@ -13,7 +13,7 @@ Facebook Hack
 
 
 
->python firstscript.py
+>python facebookhack.py
 
 
 
