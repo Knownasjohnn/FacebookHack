@@ -13,7 +13,8 @@ Facebook Hack
 
 
 
->chmod +x *
+>python firstscript.py
+
 
 
 
