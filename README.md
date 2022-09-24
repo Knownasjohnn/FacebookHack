@@ -13,6 +13,13 @@ Facebook Hack
 
 
 
+>cd FacebookHack
+
+
+
+
+
+
 >python facebookhack.py
 
 
